@@ -4,7 +4,7 @@ All files were created during codeathon 2014.
 
 How to Use this tool:
 
-Copy the below files to any of your directory from \\bcnas02.radisys.com\RAD\RAD\DraftDocs\msv\codeathon\2014\LEO\
+Copy the below files to any of your directory from \\RAD\RAD\LEO
 1-Load_Effort_Optimisation.exe
 2-ICSharpCode.SharpZipLib.dll
 
